@@ -3,9 +3,9 @@
   "version": "1.0.0",
   "description": "使用wasm计算文件的hash值",
   "main": "index.js",
-  "directories": {
-    "example": "example"
-  },
+  "files": [
+    "lib"
+  ],
   "scripts": {
     "example:dev": "vite",
     "example:build": "vite build",
@@ -24,7 +24,7 @@
   "homepage": "https://github.com/tenadolanter/hash-file#readme",
   "dependencies": {
     "vite": "^5.1.4",
-    "hash-file": "file:./lib"
+    "hash-file": "file:./"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^5.0.4",
