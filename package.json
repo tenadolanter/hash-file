@@ -1,0 +1,22 @@
+{
+  "name": "hash-file",
+  "version": "1.0.0",
+  "description": "使用wasm计算文件的hash值",
+  "main": "index.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "build": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tenadolanter/hash-file.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tenadolanter/hash-file/issues"
+  },
+  "homepage": "https://github.com/tenadolanter/hash-file#readme"
+}
