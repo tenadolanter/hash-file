@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/tenadolanter/hash-file#readme",
   "dependencies": {
-    "vite": "^5.1.4",
+    "vue": "^3.4.21",
     "hash-file": "file:./"
   },
   "devDependencies": {
@@ -31,6 +31,6 @@
     "unplugin-auto-import": "^0.17.5",
     "unplugin-vue-components": "^0.26.0",
     "vite-plugin-wasm": "^3.3.0",
-    "vue": "^3.4.21"
+    "vite": "^5.1.4"
   }
 }
