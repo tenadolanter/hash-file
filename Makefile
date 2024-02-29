@@ -18,7 +18,7 @@ build: copy
 copy: create_dir
 		@cp $(GO_WASM_EXEC) ./lib
 
-# 清理
+# 创建文件夹
 .PHONY: create_dir
 create_dir:
 		if [ ! -d "$(OUTPUT_DIR)" ]; then \
