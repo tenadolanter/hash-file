@@ -5,9 +5,7 @@ export default defineConfig({
   plugins: [vue(), wasm()],
   build: {
     rollupOptions: {
-      input: {
-        index: "./example/index.js",
-      },
+      main: "./example/main.js",
     },
-  },
+  }
 });

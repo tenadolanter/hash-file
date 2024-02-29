@@ -1,8 +1,14 @@
 <template>
-  <div>12121212</div>
+  <div>121</div>
 </template>
 
 <script setup>
 
 
 </script>
+
+
+
+<style scoped>
+
+</style>
