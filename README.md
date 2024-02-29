@@ -24,4 +24,4 @@ npm run example:dev
 
 - [] go向外暴露main方法，考虑向外暴露多个方法
 
-- [] lib下考虑新增index.js，向外暴露多个方法用于处理不同类型的hash计算
+- [] lib下考虑新增index.js，针对hash-file.wasm包一层，向外暴露多个方法用于处理不同类型的hash计算
